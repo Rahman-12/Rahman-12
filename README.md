@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Rahman-12
 - 👀 I’m interested in coding and learning new languages
-- 🌱 I’m currently learning btec computing at college
+- 🌱 I’m currently learning computer science and artificial Intelligence at University
 - 💞️ I’m looking to collaborate on nothing for now as I am still new
-- 📫 How to reach me, linkedin profile
-- 
+- 📫 How to reach me, https://www.linkedin.com/in/adedamola-yusuf-3b087822b/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
